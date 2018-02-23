@@ -7,10 +7,9 @@ with devices that apply the HEC-protocoll.
 To upload the sketch to your extension it´s the best to use the App ArduinoDroid, which is available in the PlayStore.
 In this video you can see the workflow of uploading it: https://youtu.be/eJEAs3z9VLs
 
-
 More information: 
-  -> Wiki: https://forum.fairphone.com/t/pencil2-back-pcb-wiki-ideas-tutorials-showcases/37655
-  -> forum: https://forum.fairphone.com/t/prototyping-shield-with-charging-port-e-g-qi/35848/31
-  -> project on Hackaday.io: https://hackaday.io/project/28044-hacking-an-fairphone
-  -> shapeways:  http://shpws.me/Pn7H
-  -> ArduinoDroid: http://www.arduinodroid.info/
+  * [Wiki](https://forum.fairphone.com/t/pencil2-back-pcb-wiki-ideas-tutorials-showcases/37655)
+  * [forum](https://forum.fairphone.com/t/prototyping-shield-with-charging-port-e-g-qi/35848/31)
+  * [project on Hackaday.io](https://hackaday.io/project/28044-hacking-an-fairphone)
+  * [shapeways](http://shpws.me/Pn7H)
+  * [ArduinoDroid](http://www.arduinodroid.info/)
