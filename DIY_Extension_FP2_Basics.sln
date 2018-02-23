@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2010
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "DIY_Extension_FP2_Basics", "DIY_Extension_FP2_Basics\DIY_Extension_FP2_Basics.vcxproj", "{C5F80730-F44F-4478-BDAE-6634EFC2CA88}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "DIY_Extension_Hallo_World", "..\..\..\Documents\Arduino\DIY_Extension_Hallo_World\DIY_Extension_Hallo_World.vcxproj", "{91B95131-1755-4893-890A-3DF7B74D6F7D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C5F80730-F44F-4478-BDAE-6634EFC2CA88}.Debug|x86.ActiveCfg = Debug|Win32
+		{C5F80730-F44F-4478-BDAE-6634EFC2CA88}.Debug|x86.Build.0 = Debug|Win32
+		{C5F80730-F44F-4478-BDAE-6634EFC2CA88}.Release|x86.ActiveCfg = Release|Win32
+		{C5F80730-F44F-4478-BDAE-6634EFC2CA88}.Release|x86.Build.0 = Release|Win32
+		{91B95131-1755-4893-890A-3DF7B74D6F7D}.Debug|x86.ActiveCfg = Debug|Win32
+		{91B95131-1755-4893-890A-3DF7B74D6F7D}.Debug|x86.Build.0 = Debug|Win32
+		{91B95131-1755-4893-890A-3DF7B74D6F7D}.Release|x86.ActiveCfg = Release|Win32
+		{91B95131-1755-4893-890A-3DF7B74D6F7D}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {04EE2549-36DB-453D-88AD-4BF786AA4F83}
+	EndGlobalSection
+EndGlobal
