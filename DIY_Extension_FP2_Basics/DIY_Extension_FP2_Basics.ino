@@ -5,7 +5,7 @@
 //IR
 IRsend irsend;
 int number = 0;
-const int sendingPin = 3;
+
 
 //LEDs
 int LEDs[8]{ 15,14,13,12,11,10,9,8 };
@@ -86,7 +86,7 @@ void control() {
 
 	//IRremote
 	if (buffer[0] == 1) {
-		//IRremote();
+		IRremote();
 		return;
 	}
 
@@ -143,6 +143,7 @@ void IRremote() {
 		irsend.sendNEC(0xFF8877, 32);
 		break;
 	}
+	buffer[0] = 0;
 }
 
 //checking the NTC and sending temperature to the FP
